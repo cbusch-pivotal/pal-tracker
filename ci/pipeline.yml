@@ -41,7 +41,6 @@ resources:
     organization: {{cf-org}}
     space: production
 
-resource_types:
 - name: twitter
   type: docker-image
   source:
